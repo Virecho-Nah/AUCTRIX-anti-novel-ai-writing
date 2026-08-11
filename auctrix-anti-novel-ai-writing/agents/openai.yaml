@@ -1,0 +1,5 @@
+interface:
+  display_name: "AUCTRIX �籾ȥ AI ��ϴ"
+  short_description: "�ڲ���Ϸ��ǰ��������籾С˵ǻ��AIģ�������Ӳ�԰�"
+  default_prompt: "ʹ�� $auctrix-anti-novel-ai-writing ��ϴ��ξ籾�����������ʵ���������ߺ�ԭ�и�ʽ��"
+
