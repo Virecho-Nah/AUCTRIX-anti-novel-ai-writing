@@ -1,5 +1,5 @@
 interface:
-  display_name: "AUCTRIX �籾ȥ AI ��ϴ"
-  short_description: "�ڲ���Ϸ��ǰ��������籾С˵ǻ��AIģ�������Ӳ�԰�"
-  default_prompt: "ʹ�� $auctrix-anti-novel-ai-writing ��ϴ��ξ籾�����������ʵ���������ߺ�ԭ�и�ʽ��"
+  display_name: "AUCTRIX 去AI剧本清洗"
+  short_description: "清洗剧本AI腔并保护生成所需的可见表演信息"
+  default_prompt: "使用 $auctrix-anti-novel-ai-writing 清洗这段剧本，保留剧情事实、功能性细节链、人物声线及影响AI漫剧生成的动作与状态信息。"
 
